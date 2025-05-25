@@ -1,6 +1,6 @@
-==========================================================
+
 	Simple Invoice Printer
-=========================================================
+
 This is very Simple Invoice Printer Which Creates Invoice
 of Items When Add items in cart And Proceed , it is Made 
 With C++
